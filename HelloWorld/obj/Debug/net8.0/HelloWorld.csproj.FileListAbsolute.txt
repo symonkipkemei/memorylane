@@ -1,0 +1,13 @@
+F:\BIMHABITAT\SOFTWARES\memoryLane\HelloWorld\bin\Debug\net8.0\HelloWorld.deps.json
+F:\BIMHABITAT\SOFTWARES\memoryLane\HelloWorld\bin\Debug\net8.0\HelloWorld.dll
+F:\BIMHABITAT\SOFTWARES\memoryLane\HelloWorld\bin\Debug\net8.0\HelloWorld.pdb
+F:\BIMHABITAT\SOFTWARES\memoryLane\HelloWorld\obj\Debug\net8.0\HelloWorld.csproj.AssemblyReference.cache
+F:\BIMHABITAT\SOFTWARES\memoryLane\HelloWorld\obj\Debug\net8.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+F:\BIMHABITAT\SOFTWARES\memoryLane\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfoInputs.cache
+F:\BIMHABITAT\SOFTWARES\memoryLane\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfo.cs
+F:\BIMHABITAT\SOFTWARES\memoryLane\HelloWorld\obj\Debug\net8.0\HelloWorld.csproj.CoreCompileInputs.cache
+F:\BIMHABITAT\SOFTWARES\memoryLane\HelloWorld\obj\Debug\net8.0\HelloWorld.sourcelink.json
+F:\BIMHABITAT\SOFTWARES\memoryLane\HelloWorld\obj\Debug\net8.0\HelloWorld.dll
+F:\BIMHABITAT\SOFTWARES\memoryLane\HelloWorld\obj\Debug\net8.0\refint\HelloWorld.dll
+F:\BIMHABITAT\SOFTWARES\memoryLane\HelloWorld\obj\Debug\net8.0\HelloWorld.pdb
+F:\BIMHABITAT\SOFTWARES\memoryLane\HelloWorld\obj\Debug\net8.0\ref\HelloWorld.dll
